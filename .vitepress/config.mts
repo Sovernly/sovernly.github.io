@@ -22,6 +22,7 @@ export default defineConfig({
       {
         text: 'Work Sovernly',
         items: [
+          { text: 'Leadership', link: '/work/leadership' },
           { text: 'Employee', link: '/work/employee' },
           { text: 'Management', link: '/work/management' },
           { text: 'Ownership', link: '/work/ownership' }
