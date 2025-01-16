@@ -19,11 +19,11 @@ hero:
 
 features:
   - title: Cyber-Security Consulting
-    details: We are funding our wider efforts by leveraging our learned strengths in innovation and security.
+    details: We are funding our wider efforts by leveraging our learned strengths in innovation, resiliancy and security.
     link: /security/index
   - title: Energy Systems Architecture
-    details: Working to build the future with a more equitable and resiliant infrastructure.
+    details: Working to build the future with a more equitable and resiliant infrastructure that allows an even playing field for this next wave of innovation and adoption.
   - title: Sovereign Information Systems Design
-    details: Our platform for taking back your right of self-determination from the information oligarchy
+    details: Our platform for taking back your right of self-determination.
 ---
 
