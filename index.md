@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Sovernly"
   text: "A new kind of company"
-  tagline: Cyber-Security is NOT Cyber Sovereignty
+  tagline: Cyber-Security alone is NOT Digital Sovereignty
   actions:
     - theme: brand
       text: Live
