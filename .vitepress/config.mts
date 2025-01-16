@@ -13,16 +13,31 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Live Sovernly',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Home == Castle', link: '/live/home' },
+          { text: 'Home Architecture', link: '/live/architecture' }
+        ]
+      },
+      {
+        text: 'Work Sovernly',
+        items: [
+          { text: 'Employee', link: '/work/employee' },
+          { text: 'Management', link: '/work/management' },
+          { text: 'Ownership', link: '/work/ownership' }
+        ]
+      },
+      {
+        text: 'Socialize Sovernly',
+        items: [
+          { text: 'Social Groups', link: '/socialize/groups' },
+          { text: 'Political Groups', link: '/socialize/political' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://sovernly.github.com/' }
+      { icon: 'github', link: 'https://github.com/sovernly' }
     ]
   }
 })
