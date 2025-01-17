@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Sovernly"
-  text: "Designing our digital world as a citizen first"
+  text: "Architecting a citizen first world."
   tagline: Cyber-Security alone is NOT Digital Sovereignty
   actions:
     - theme: brand
