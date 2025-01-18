@@ -8,13 +8,13 @@ hero:
   actions:
     - theme: brand
       text: Live
-      link: /live
+      link: /live/index
     - theme: alt
       text: Work
-      link: /work
+      link: /work/index
     - theme: alt
       text: Socialize
-      link: /socialize
+      link: /socialize/index
 
 
 features:
