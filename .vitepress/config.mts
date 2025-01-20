@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Security',
+        text: 'Security', link: '/security/index',
         items: [
           { text: 'Devices', link: '/security/devices' },
           { text: 'Networks', link: '/security/networks' },
@@ -22,14 +22,14 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Innovation',
+        text: 'Innovation', link: '/innovation/index',
         items: [
           { text: 'Stewarding Change', link: '/innovation/index' },
           { text: 'Innovation Architecture', link: '/innovation/architecture' }
         ]
       },
       {
-        text: 'Resilience',
+        text: 'Resilience', link: '/resiliency/index',
         items: [
           { text: 'Durable', link: '/resiliency/index' },
           { text: 'Trustworthy', link: '/resiliency/trustworthy' }
