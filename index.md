@@ -24,7 +24,7 @@ features:
   - title: Innovation Architecture
     details: Designing a digital infrastructure to accelerate your innovation efforts.
     link: /innovation/index
-  - title: Resilient Architecture
+  - title: Resilience Architecture
     details: Ensuring you are adequately resilient and secure to ensure your self determination.
     link: /resiliency/index
 ---
