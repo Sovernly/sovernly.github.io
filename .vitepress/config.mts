@@ -8,14 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Stories', link: '/stories/index' }
+      { text: 'Blog', link: '/blog/index' }
     ],
 
     sidebar: [
       {
         text: 'Live Sovernly',
         items: [
-          { text: 'Home == Castle', link: '/live/home' },
+          { text: '@Home', link: '/live/home' },
           { text: 'Home Architecture', link: '/live/architecture' }
         ]
       },
