@@ -13,6 +13,29 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Security',
+        items: [
+          { text: 'Devices', link: '/security/devices' },
+          { text: 'Networks', link: '/security/networks' },
+          { text: 'Identities', link: '/security/identity' },
+          { text: 'Applications', link: '/security/applications' }
+        ]
+      },
+      {
+        text: 'Innovation',
+        items: [
+          { text: 'Stewarding Change', link: '/innovation/index' },
+          { text: 'Innovation Architecture', link: '/innovation/architecture' }
+        ]
+      },
+      {
+        text: 'Resilience',
+        items: [
+          { text: 'Durable', link: '/resiliency/index' },
+          { text: 'Trustworthy', link: '/resiliency/trustworthy' }
+        ]
+      },
+      {
         text: 'Live Sovernly',
         items: [
           { text: '@Home', link: '/live/home' },

@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "Sovernly"
   text: "Architecting a citizen first world."
-  tagline: Cyber Security alone is NOT Digital Sovereignty
+  tagline: Cyber Security alone is not Digital Sovereignty
   actions:
     - theme: alt
       text: Live
@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Security Architecture
-    details: Supporting Innovation with resiliancy and security.
+    details: Supporting Innovation with resiliency and security.
     link: /security/index
   - title: Innovation Architecture
     details: Designing a digital infrastructure to accelerate your innovation efforts.
