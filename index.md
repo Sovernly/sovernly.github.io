@@ -19,7 +19,7 @@ hero:
 
 features:
   - title: Security Architecture
-    details: Supporting Innovation with resiliency and security.
+    details: Supporting Innovation and Operations with resiliency and security.
     link: /security/index
   - title: Innovation Architecture
     details: Designing a digital infrastructure to accelerate your innovation efforts.
