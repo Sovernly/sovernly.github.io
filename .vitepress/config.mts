@@ -15,10 +15,11 @@ export default defineConfig({
       {
         text: 'Security', link: '/security/index',
         items: [
-          { text: 'Devices', link: '/security/devices' },
-          { text: 'Networks', link: '/security/networks' },
-          { text: 'Identities', link: '/security/identity' },
-          { text: 'Applications', link: '/security/applications' }
+          { text: 'Physical Security', link: '/security/physical' },
+          { text: 'Logical Security', link: '/security/logical', items: [
+            { text: 'Identities', link: '/security/identity' },
+            { text: 'Applications', link: '/security/applications' }
+          ]}
         ]
       },
       {
