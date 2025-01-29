@@ -12,5 +12,5 @@ All that there is, has been built on trust. The core systems that we all interac
 
 ### Resilience
 
-### [Security](/blog)
+### [Security](/blog/stories/security/index.md)
 
