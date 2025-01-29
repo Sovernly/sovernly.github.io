@@ -1,3 +1,3 @@
 # Security Stories
 
-## [Insider Threats](/blog/stories/security/insiderthreat.md)
+## [Insider Threats](insiderthreat.md)
