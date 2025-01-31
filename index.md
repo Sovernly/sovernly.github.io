@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: "Sovernly"
-  text: "Architecting a citizen first world."
+  text: "Architecting a citizen=centric world."
   tagline: Cyber Security alone is not Digital Sovereignty
   actions:
     - theme: alt
