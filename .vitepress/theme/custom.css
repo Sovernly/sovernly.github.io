@@ -1,0 +1,57 @@
+/* Light mode */
+:root {
+  --vp-c-brand-1: #7C3AED; /* Primary purple */
+  --vp-c-brand-2: #A78BFA; /* Lighter purple */
+  --vp-c-brand-3: #C4B5FD; /* Even lighter purple */
+  --vp-c-bg: #ffffff;
+  --vp-c-text-1: #2d2d2d;
+  --vp-c-text-2: #5f5f5f;
+  --vp-font-family-base: 'Segoe UI', Arial, sans-serif;
+}
+
+/* Dark mode */
+.dark {
+  --vp-c-brand-1: #A78BFA; /* Lighter purple for dark backgrounds */
+  --vp-c-brand-2: #7C3AED; /* Primary purple */
+  --vp-c-brand-3: #6D28D9; /* Deep purple */
+  --vp-c-bg: #181028;
+  --vp-c-text-1: #f3f3fa;
+  --vp-c-text-2: #bdbdd7;
+}
+
+/* Example: Style the navbar title */
+.VPNavBar .title {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-weight: bold;
+  color: var(--vp-c-brand-1);
+}
+
+/* Example: Style links */
+a {
+  color: var(--vp-c-brand-1);
+}
+a:hover {
+  color: var(--vp-c-brand-2);
+}
+
+/* Optional: Button styling */
+button, .vp-button {
+  background: var(--vp-c-brand-1);
+  color: #fff;
+  border-radius: 6px;
+  border: none;
+  padding: 0.5em 1.2em;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+button:hover, .vp-button:hover {
+  background: var(--vp-c-brand-2);
+}
+
+/* Optional: Accent backgrounds */
+.vp-accent-bg {
+  background: var(--vp-c-brand-3);
+  color: var(--vp-c-text-1);
+  padding: 1em;
+  border-radius: 8px;
+}

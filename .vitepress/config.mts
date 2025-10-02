@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress/config'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

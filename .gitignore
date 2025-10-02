@@ -19,6 +19,14 @@ docs/.vitepress/cache
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Microsoft Office temporary files
+~$*
+*.tmp
+*.bak
+*.wbk
+*.asd
+*.lnk
+
 # Mono auto generated files
 mono_crash.*
 
