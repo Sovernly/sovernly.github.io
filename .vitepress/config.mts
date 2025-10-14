@@ -13,53 +13,52 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Security', link: '/security/index',
+        text: 'Identity', link: '/identity/index',
         items: [
-          { text: 'Physical Security', link: '/security/physical', items: [
-            { text: 'Devices', link: '/security/devices' },
-            { text: 'Networks', link: '/security/networks' }
+          { text: 'Sovernly Identity', link: '/identity/sovernly', items: [
+            { text: 'Personal', link: '/identity/personal' },
+            { text: 'Business', link: '/identity/business' },
+            { text: 'Organizational', link: '/identity/organizational' }
           ] },
-          { text: 'Logical Security', link: '/security/logical', items: [
-            { text: 'Identities', link: '/security/identity' },
-            { text: 'Applications', link: '/security/applications' }
+          { text: 'Identity Resilience', link: '/identity/resilience', items: [
+            { text: 'Highly Available', link: '/identity/availability' },
+            { text: 'Highly Fault Tolerant', link: '/identity/faulttolerant' }
           ]}
         ]
       },
       {
-        text: 'Innovation', link: '/innovation/index',
+        text: 'Infrastructure', link: '/infrastructure/index',
         items: [
-          { text: 'Stewarding Change', link: '/innovation/index' },
-          { text: 'Innovation Architecture', link: '/innovation/architecture' }
+          { text: 'Sovernly Infrastructure', link: '/infrastructure/index' },
+          { text: 'Innovation Architecture', link: '/infrastructure/innovation' }
         ]
       },
       {
-        text: 'Resilience', link: '/resiliency/index',
+        text: 'Apps', link: '/Apps/index',
         items: [
-          { text: 'Durable', link: '/resiliency/index' },
-          { text: 'Trustworthy', link: '/resiliency/trustworthy' }
+          { text: 'Sovernly Apps', link: '/apps/sovernly' },
+          { text: 'Trustworthy Apps', link: '/apps/trustworthy' }
         ]
       },
       {
-        text: 'Live Sovernly',
+        text: 'Data',
         items: [
-          { text: '@Home', link: '/live/home' },
+          { text: 'Sovernly Data', link: '/data/index' },
           { text: 'Home Architecture', link: '/live/architecture' }
         ]
       },
       {
-        text: 'Work Sovernly',
+        text: 'Endpoints',
         items: [
-          { text: 'Leadership', link: '/work/leadership' },
-          { text: 'Employee', link: '/work/employee' },
-          { text: 'Management', link: '/work/management' },
-          { text: 'Ownership', link: '/work/ownership' }
+          { text: 'Device Endpoints', link: '/endpoints/device' },
+          { text: 'Service Endpoints', link: '/endpoints/service' }
         ]
       },
       {
-        text: 'Socialize Sovernly',
+        text: 'Networks',
         items: [
-          { text: 'Social Groups', link: '/socialize/groups' },
-          { text: 'Political Groups', link: '/socialize/political' }
+          { text: 'Sovernly Networks', link: '/networks/index' },
+          { text: 'Network Security', link: '/networks/security' }
         ]
       }
     ],
