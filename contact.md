@@ -2,8 +2,8 @@
 
 ## General Information
 
-[mailto:info@sovernly.com](Drop us a Line)
+[Drop us a line here](mailto:info@sovernly.com)
 
 ## Our Founders
 
-[mailto:founders@sovernly.com](Reach out to our Founders)
+[Reach out to our Founders](mailto:founders@sovernly.com)
