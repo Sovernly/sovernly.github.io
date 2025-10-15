@@ -3,18 +3,18 @@ layout: home
 
 hero:
   name: "Sovernly"
-  text: "Architecting a citizen-centric world."
-  tagline: Cyber Security alone is not Digital Sovereignty
+  text: "Social Infrastructure"
+  tagline: Creating trustworthy projections of our social infrastructure into the digital realm
   actions:
     - theme: alt
-      text: Live
+      text: Home
       link: /live/index
     - theme: alt
       text: Work
       link: /work/index
     - theme: alt
-      text: Socialize
-      link: /socialize/index
+      text: Citizenship
+      link: /citizenship/index
 
 
 features:

@@ -1,3 +1,0 @@
-# Management
-
-Governance and Stewardship

@@ -5,9 +5,9 @@ export default defineConfig({
   title: "Sovernly",
   description: "Working to build the next generation of sovereign systems",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Blog', link: '/blog' },
       { text: 'Contact', link: '/contact' }
     ],
 
@@ -27,10 +27,6 @@ export default defineConfig({
       },
       {
         text: 'Endpoints',
-        items: [
-          { text: 'Device Endpoints', link: '/endpoints/device' },
-          { text: 'Service Endpoints', link: '/endpoints/service' }
-        ]
       },
       {
         text: 'Networks',
