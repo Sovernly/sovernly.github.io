@@ -13,24 +13,24 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Apps', link: '/Apps/index',
+      },
+      {
+        text: 'Data', link: '/data/index',
+      },
+      {
+        text: 'Endpoints', link: '/endpoints/index',
+      },
+      {
         text: 'Identity', link: '/identity/index',
       },
       {
         text: 'Infrastructure', link: '/infrastructure/index',
       },
       {
-        text: 'Apps', link: '/Apps/index',
+        text: 'Networks', link: '/networks/index',
       },
-      {
-        text: 'Data',
-
-      },
-      {
-        text: 'Endpoints',
-      },
-      {
-        text: 'Networks',
-      }
+      { text: 'Blog', link: '/blog/index'}
     ],
 
     socialLinks: [
