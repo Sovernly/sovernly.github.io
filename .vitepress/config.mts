@@ -13,7 +13,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Apps', link: '/Apps/index',
+        text: 'Apps', link: '/apps/index',
       },
       {
         text: 'Data', link: '/data/index',
