@@ -2,7 +2,7 @@
 
 ## General Information
 
-[Drop us a line here](mailto:info@sovernly.com)
+[Drop us a line here](mailto:info@sovernly.com) - mailto:info@sovernly.com
 
 ## Our Founders
 
